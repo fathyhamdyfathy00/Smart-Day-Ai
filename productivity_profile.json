@@ -1,0 +1,61 @@
+{
+  "productive_hours": {
+    "morning": {
+      "start": "08:00",
+      "end": "11:00",
+      "score": 0.7
+    },
+    "afternoon": {
+      "start": "14:00",
+      "end": "17:00",
+      "score": 0.8
+    },
+    "evening": {
+      "start": "19:00",
+      "end": "22:00",
+      "score": 0.9360000000000002
+    }
+  },
+  "typical_sleep_time": "23:30",
+  "typical_wake_time": "07:00",
+  "frequently_postponed": [],
+  "task_difficulty_tolerance": "medium",
+  "preferred_session_length": 45,
+  "completion_rate_by_hour": {
+    "19": {
+      "completed": 2,
+      "total": 2
+    }
+  },
+  "postponement_patterns": {
+    "by_difficulty": {
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    },
+    "by_priority": {
+      "low": 0,
+      "medium": 0,
+      "high": 0
+    },
+    "by_hour": {}
+  },
+  "energy_pattern": {
+    "08:00": 0.6,
+    "09:00": 0.7,
+    "10:00": 0.8,
+    "11:00": 0.8,
+    "12:00": 0.5,
+    "13:00": 0.4,
+    "14:00": 0.6,
+    "15:00": 0.8,
+    "16:00": 0.8,
+    "17:00": 0.7,
+    "18:00": 0.5,
+    "19:00": 0.7,
+    "20:00": 0.8,
+    "21:00": 0.9,
+    "22:00": 0.7,
+    "23:00": 0.4
+  }
+}

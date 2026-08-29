@@ -1,0 +1,102 @@
+[
+  {
+    "timestamp": "2026-05-12T19:47:41.764067",
+    "recommended_idx": 3,
+    "selected_idx": 3,
+    "reward": 1.0,
+    "strategy": "diverse_2",
+    "weights_after": {
+      "priority_weight": 0.35495,
+      "difficulty_weight": -0.152475,
+      "duration_weight": -0.0995545,
+      "deadline_weight": 0.25396,
+      "productivity_weight": 0.15297,
+      "postponed_penalty": -0.09802000000000001,
+      "energy_match_weight": 0.10247500000000001,
+      "time_remaining_weight": 0.08198,
+      "user_preference_weight": 0.12173250000000001,
+      "time_pressure_weight": 0.15297,
+      "task_importance_weight": 0.10247500000000001
+    }
+  },
+  {
+    "timestamp": "2026-05-12T19:49:39.755861",
+    "recommended_idx": 4,
+    "selected_idx": 4,
+    "reward": 1.0,
+    "strategy": "diverse_5",
+    "weights_after": {
+      "priority_weight": 0.3598505,
+      "difficulty_weight": -0.15492525000000001,
+      "duration_weight": -0.099113455,
+      "deadline_weight": 0.2578804,
+      "productivity_weight": 0.1559103,
+      "postponed_penalty": -0.09605980000000001,
+      "energy_match_weight": 0.10492525000000001,
+      "time_remaining_weight": 0.08394019999999999,
+      "user_preference_weight": 0.12344767500000002,
+      "time_pressure_weight": 0.1559103,
+      "task_importance_weight": 0.10492525000000001
+    }
+  },
+  {
+    "timestamp": "2026-05-12T19:51:07.053056",
+    "recommended_idx": 1,
+    "selected_idx": 0,
+    "reward": -1.0,
+    "strategy": "priority",
+    "weights_after": {
+      "priority_weight": 0.362226995,
+      "difficulty_weight": -0.15240099750000002,
+      "duration_weight": -0.09956782045000001,
+      "deadline_weight": 0.253841596,
+      "productivity_weight": 0.152881197,
+      "postponed_penalty": -0.09807920200000002,
+      "energy_match_weight": 0.10240099750000001,
+      "time_remaining_weight": 0.08192079799999999,
+      "user_preference_weight": 0.12168069825000002,
+      "time_pressure_weight": 0.152881197,
+      "task_importance_weight": 0.10240099750000001
+    }
+  },
+  {
+    "timestamp": "2026-05-12T19:52:21.560463",
+    "recommended_idx": 0,
+    "selected_idx": 0,
+    "reward": 1.0,
+    "strategy": "priority",
+    "weights_after": {
+      "priority_weight": 0.36705472505,
+      "difficulty_weight": -0.154851987525,
+      "duration_weight": -0.09912664224550001,
+      "deadline_weight": 0.25776318004,
+      "productivity_weight": 0.15582238503,
+      "postponed_penalty": -0.09611840998000001,
+      "energy_match_weight": 0.10485198752500001,
+      "time_remaining_weight": 0.08388159001999998,
+      "user_preference_weight": 0.12166389126750003,
+      "time_pressure_weight": 0.15582238503,
+      "task_importance_weight": 0.10485198752500001
+    }
+  },
+  {
+    "timestamp": "2026-05-13T14:00:08.315047",
+    "recommended_idx": 0,
+    "selected_idx": 0,
+    "reward": 1.0,
+    "strategy": "priority",
+    "weights_after": {
+      "priority_weight": 0.37183417779949995,
+      "difficulty_weight": -0.15727846764975,
+      "duration_weight": -0.098689875823045,
+      "deadline_weight": 0.2616455482396,
+      "productivity_weight": 0.15873416117970002,
+      "postponed_penalty": -0.09417722588020001,
+      "energy_match_weight": 0.10727846764975,
+      "time_remaining_weight": 0.08582277411979998,
+      "user_preference_weight": 0.12164725235482504,
+      "time_pressure_weight": 0.15873416117970002,
+      "task_importance_weight": 0.10727846764975
+    }
+  }
+]

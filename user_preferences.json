@@ -1,0 +1,14 @@
+{
+  "strategy_counts": {
+    "priority": 3,
+    "difficulty": 0,
+    "duration_short": 0,
+    "duration_long": 0,
+    "random_1": 0,
+    "random_2": 0,
+    "energy_based": 0,
+    "deadline_based": 0
+  },
+  "total_selections": 3,
+  "last_selected": "priority"
+}

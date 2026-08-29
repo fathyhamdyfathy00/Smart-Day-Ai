@@ -1,0 +1,13 @@
+{
+  "priority_weight": 0.37183417779949995,
+  "difficulty_weight": -0.15727846764975,
+  "duration_weight": -0.098689875823045,
+  "deadline_weight": 0.2616455482396,
+  "productivity_weight": 0.15873416117970002,
+  "postponed_penalty": -0.09417722588020001,
+  "energy_match_weight": 0.10727846764975,
+  "time_remaining_weight": 0.08582277411979998,
+  "user_preference_weight": 0.12164725235482504,
+  "time_pressure_weight": 0.15873416117970002,
+  "task_importance_weight": 0.10727846764975
+}

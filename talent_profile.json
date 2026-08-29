@@ -1,0 +1,28 @@
+{
+  "preferred_task_type": "diff_hard",
+  "difficulty_handling_score": 0.5266933,
+  "speed_efficiency_score": 0.4647183320000001,
+  "consistency_score": 0.5485745440000002,
+  "handles_high_difficulty": 0.5266933,
+  "fast_completion": 0.4647183320000001,
+  "consistency": 0.5485745440000002,
+  "completed_count": 2,
+  "postponed_count": 0,
+  "completed_hard": 1,
+  "completed_fast": 0,
+  "by_task_type": {
+    "diff_hard": {
+      "completed": 1,
+      "postponed": 0,
+      "fast": 0,
+      "hard": 1
+    },
+    "diff_easy": {
+      "completed": 1,
+      "postponed": 0,
+      "fast": 0,
+      "hard": 0
+    }
+  },
+  "last_updated": "2026-05-12T19:53:23"
+}
